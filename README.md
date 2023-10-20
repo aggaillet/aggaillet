@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **the onboard software for a student-built sounding rocket**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently reading a great book on **Human-Machine Interaction**
 
 - 👨‍💻 A game I coded with friends [Eryantis](https://github.com/FerriAlessandro/ing-sw-2022-Ferri-Gabbini-Gaillet)
 
